@@ -7,9 +7,7 @@
 * **⚡ Speed Blob (Mini Gioco):** Sfida i tuoi compagni: quanti pesci blob riesci ad acchiappare in 15 secondi?
 * **💬 Chat Blobbiana Live:** Una chat di classe istantanea per scambiarvi messaggi in tempo reale.
 * **📝 Perle del Blobfish & Segreti di Rofoldo:** Una raccolta in continua evoluzione delle citazioni più epiche e dei segreti più nascosti della classe.
-* **🎵 Soundboard da Lezione:** Effetti sonori integrati per ogni evenienza (spiegazioni, notifiche e applausi).
 * **📅 Calendario Lezioni:** Per tenere sempre d'occhio le scadenze e i compiti in classe.
-* **🛡️ Schermo di Blocco Anti-Double-Click:** Un overlay animato con il pesce blob che impedisce qualsiasi doppio click o conflitti di sincronizzazione durante il salvataggio dei dati.
 
 ---
 
